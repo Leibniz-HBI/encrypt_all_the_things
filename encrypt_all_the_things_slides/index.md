@@ -11,13 +11,13 @@
 ----
 
 Find the slides here:<br/>
-https://qut-dmrc.github.io/encrypt_all_the_things
+https://leibniz-hbi.github.io/encrypt_all_the_things
 
 <font size=3>
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></br>
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br/>
 Feel free to fork, edit, and distribute these slides from here:<br/>
-https://github.com/qut-dmrc/encrypt_all_the_things
+https://github.com/Leibniz-HBI/encrypt_all_the_things
 </font>
 
 Based on work by <a href="https://twitter.com/brendam">@brendam</a> & <a href="https://twitter.com/flxvctr">@flxvctr</a>
