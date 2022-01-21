@@ -35,5 +35,5 @@ Use url: http://localhost:8000/?print-pdf#/ and print via the dialog in your web
 
 Previous versions of the workshop are available on the releases page: https://github.com/qut-dmrc/encrypt\_all\_the\_things/releases
 
-[1]:	https://qut-dmrc.github.io/encrypt_all_the_things
+[1]:	https://leibniz-hbi.github.io/encrypt_all_the_things/#/
 [2]:	README_reveal.js.md#full-setup
