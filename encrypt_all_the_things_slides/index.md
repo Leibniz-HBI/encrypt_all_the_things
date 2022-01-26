@@ -82,7 +82,7 @@ communication with protesters in an authoritarian surveillance state via iMessag
 
 ## unencrypted devices
 
-interview with journalist in country oppressing the press with 'off-the-record' content on unencrypted Android phone gets confiscated at the airport before leaving the country
+interview with journalist in country oppressing the press with 'off-the-record' content on unencrypted Android phone, laptop or USB drive gets confiscated at the airport before leaving the country
 
 Note:
 * even if something similar might have happened, all examples are made up
@@ -145,10 +145,10 @@ Therefore your passwords will be strong, will not be reused, and you don't have 
 ## We recommend (1/2)
 
 * KeePass, KeePassXC, KeeWeb
-    * Open source +
+    * Open source and free +
     * interoperable +
     * high reputation +
-    * free +
+    * all data under your control +/-
     * inconvenient -
     * insecure if used incorrectly -
 
