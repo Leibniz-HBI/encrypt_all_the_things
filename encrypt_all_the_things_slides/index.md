@@ -445,8 +445,7 @@ Note: HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts y
 * [keybase](https://keybase.io/)
 * [GPGTools](https://gpgtools.org/) for MacOS
 * [GPG4win](https://www.gpg4win.org/) for Windows
-* [Enigmail for Thunderbird](https://www.enigmail.net/index.php/en/)
-* email clients with GPG support
+* email clients with GPG support (e.g. Thunderbird)
 
 Note:
 
@@ -615,7 +614,6 @@ Discuss in groups how what we have covered today applies to your research.
 
 ## 2-factor-authentication
 
-* Authenticator (Windows Phone 7) https://www.microsoft.com/en-us/store/p/authenticator/9wzdncrfj3rj
 * FreeOTP https://freeotp.github.io/
 * Google Authenticator (Android/iPhone/BlackBerry) https://support.google.com/accounts/answer/1066447?hl=en
 * Authy https://www.authy.com/app/
@@ -626,7 +624,6 @@ Discuss in groups how what we have covered today applies to your research.
 
 * Browser leaks https://browserleaks.com
 * HTTPS Everywhere https://www.eff.org/https-everywhere
-* detailed VPN comparison https://thatoneprivacysite.net/
 * ProtonVPN https://protonvpn.com/
 * NordVPN https://nordvpn.com/
 * Private Internet Access https://www.privateinternetaccess.com/
@@ -674,10 +671,12 @@ Discuss in groups how what we have covered today applies to your research.
 
 ---
 
-![](https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/200px-Twitter_bird_logo_2012.svg.png)
+Thanks!
 
 [@brendam](https://twitter.com/brendam)
 [@flxvctr](https://twitter.com/flxvctr)
+[@theJanRau](https://twitter.com/theJanRau)
+[@PKessling](https://twitter.com/PKessling)
 
 <font size=0.5><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></br>
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</font>
