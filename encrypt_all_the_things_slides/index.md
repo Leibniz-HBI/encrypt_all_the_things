@@ -216,7 +216,6 @@ Use an app for 2 factor authentication:
 
 * [FreeOTP](https://freeotp.github.io/)
 * [Google Authenticator (Android/iPhone/BlackBerry)](https://support.google.com/accounts/answer/1066447?hl=en)
-* [Authenticator (Windows Phone 7)](https://www.microsoft.com/en-us/store/p/authenticator/9wzdncrfj3rj)
 * [Authy](https://www.authy.com/app/)
 
 Note:
