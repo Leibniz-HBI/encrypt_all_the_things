@@ -367,6 +367,7 @@ AND
     * [Cryptomator](https://cryptomator.org/)
     * [keybase](https://keybase.io/)
     * disk image encryption by your operating system
+ * backup solutions: https://smo-wiki.leibniz-hbi.de/Secure-Storage-and-Archiving
 
 **MAKE SURE YOU NEVER LOOSE YOUR KEYS OR PASSPHRASES!!!**</br>
 Or all is lost.
